@@ -3,7 +3,6 @@ const repeatString = function(str,num) {
     for(i = 0;num > i; i++){
         result += str;
     }
-    console.log(str);
     return result;
 }
 
